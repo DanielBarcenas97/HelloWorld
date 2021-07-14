@@ -1,0 +1,11 @@
+<resources>
+
+
+    <string name="app_name">HelloWorld</string>
+    <string name="hi">Hello</string>
+    <string name="bye">bye</string>
+
+    <string name="tv_hello_world">Hola a todos</string>
+
+
+</resources>
